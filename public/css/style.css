@@ -9,7 +9,7 @@
 }
 
 :root {
-  --primary-color: #f9b64d;
+  --primary-color: #9d4df9;
 }
 
 body {
@@ -58,7 +58,7 @@ body {
 
 .showcase h1 {
   font-size: 2.5rem;
-  color: #333;
+  color: rgb(239, 223, 4);
   text-align: center;
   padding: 1rem 0;
 }
